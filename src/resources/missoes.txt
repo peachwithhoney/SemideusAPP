@@ -1,0 +1,13 @@
+Recuperar o Velocino de Ouro,Viajar ao Mar de Monstros e recuperar o Velocino,500,false
+Defender o Olimpo,Proteger o Olimpo dos Titãs,1000,true
+Derrotar Medusa,Localizar e derrotar Medusa em seu covil,300,false
+Destruir o Labirinto de Dédalo,Encontre o centro do Labirinto e destrua-o,750,true
+Salvar Artemis,Resgatar Artemis das mãos dos titãs,450,false
+Proteger o Acampamento Meio-Sangue,Defender o acampamento de uma invasão de monstros,600,true
+Achar o raio mestre de Zeus,Encontrar e devolver o raio mestre a Zeus,900,true
+Recuperar o elmo de Hades,Encontre o elmo de Hades perdido,400,false
+Enfrentar Polifemo,Derrote o ciclope Polifemo e resgate seus companheiros,800,false
+Derrotar o Titã Atlas,Substitua Atlas e liberte Ártemis,1200,true
+Nome da Missão,Encontrar atlanta,100,false
+Nome da Missão,Conseguir sobreviver a aula,100,false
+Nome da Missão,Sobreviver a invasão do acampamento,100,false

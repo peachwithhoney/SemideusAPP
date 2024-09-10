@@ -1,0 +1,10 @@
+Grover,5
+Leneu,4
+Pan,10
+Sileno,3
+Junípero,6
+Fítius,2
+Aegipan,7
+Silenus,3
+Maron,6
+Carme,4

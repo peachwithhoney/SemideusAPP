@@ -1,0 +1,10 @@
+Espada de Bronze Celestial,150
+Escudo de Aegis,300
+Elmo de Invisibilidade,500
+Anel da Fortuna,1000
+Poção de Cura,200
+Sandálias Aladas,250
+Armadura de Ouro Imperial,750
+Flechas Envenenadas,300
+Cinto da Força de Hércules,850
+Capacete de Athena,400
